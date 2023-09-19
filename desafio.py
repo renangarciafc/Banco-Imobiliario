@@ -1,5 +1,3 @@
-#----------------------       Desafio BrasilPrev   ---------------------------
-
 import random
 from collections import Counter
 
